@@ -1,0 +1,4 @@
+domain,generated_pct_helix,generated_pct_strand,generated_pct_ss,generated_pct_left_helix,designed_pct_helix,designed_pct_strand,designed_pct_ss,designed_pct_left_helix,seqlen,scTM,scRMSD,pLDDT,pAE
+Rank0_B0S1_lmdbIndex_1_len_500,0.518,0.01,0.528,0.0,0.402,0.0,0.402,0.0,499,0.235,21.819,26.712,25.336
+Rank1_B9S0_lmdbIndex_12997_len_60,0.4,0.083,0.483,0.0,0.617,0.0,0.617,0.0,59,0.333,6.206,73.408,7.116
+Rank1_B8S1_lmdbIndex_9039_len_108,0.648,0.0,0.648,0.0,0.889,0.0,0.889,0.0,107,0.315,10.983,82.01,7.681
